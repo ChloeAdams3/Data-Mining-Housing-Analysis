@@ -9,6 +9,6 @@ Utilized Orange to gain experience in solving a data mining problem collaborativ
 2. Cleaned the data utilizing R
 3. Performed Exploratory Analysis to find interesting insights
 4. Built initial models utilizing different model types
-5. Tuned hyperparameters of the models to minimize error and limit overfiitng and underfitting
-6. Selected model with the least error
+5. Tuned hyperparameters of the models to minimize error and prevent overfiitng and underfitting
+6. Selected model with the least error that best fit the business problem
 7. Presented findings through a presentation and report
